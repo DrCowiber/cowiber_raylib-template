@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24...3.30)
-project(RAYLIB-TEMPLATE_A)
+project(RAYLIB-TEMPLATE)
 
 include(FetchContent)
 
